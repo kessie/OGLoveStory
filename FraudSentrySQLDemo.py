@@ -1,9 +1,9 @@
 import sqlParser.py
-import FrequencyCheck
-import MathematicalFunction
-import Update
-import FrequencyCheck
-import Transaction
+import FrequencyCheck.py
+import MathematicalFunction.py
+import Update.py
+import FrequencyCheck.py
+import Transaction.py
 
 import MySQLdb
 import sqlite3

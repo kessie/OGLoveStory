@@ -7,6 +7,8 @@ passwd="",
 db="itinventory"
 )
 
+
+
 # Get the cursor, which is used to traverse the database, line by line
 cursor = database.cursor()
 
